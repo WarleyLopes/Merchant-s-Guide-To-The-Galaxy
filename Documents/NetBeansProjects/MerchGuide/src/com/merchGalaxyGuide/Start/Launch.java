@@ -26,5 +26,4 @@ public class Launch {
             System.exit(1);
         }
     }
-
 }
